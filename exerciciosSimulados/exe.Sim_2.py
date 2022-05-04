@@ -1,0 +1,10 @@
+#print("Hello World!")
+#print("Hello Again.")
+#print("I like typing this.")
+#print("This is fun.")
+#print('Yay! Printing.')
+#print("I'd much rather you 'not'.")
+#print('I "said" do not touch this.')
+#print("Linha extra do exercício")
+
+print("Só para descobrir que a '#' cerquilha, funciona para fazer comentários no Python")
